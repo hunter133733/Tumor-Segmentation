@@ -1,0 +1,334 @@
+{
+    "foreground_mean": {
+        "Dice": 0.43372687360366946,
+        "FN": 12124.166666666666,
+        "FP": 9266.0,
+        "IoU": 0.3250512950483274,
+        "TN": 8882467.416666666,
+        "TP": 24142.416666666668,
+        "n_pred": 33408.416666666664,
+        "n_ref": 36266.583333333336
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.3460063544883376,
+            "FN": 6756.75,
+            "FP": 9060.625,
+            "IoU": 0.2523530370385061,
+            "TN": 8900487.375,
+            "TP": 11695.25,
+            "n_pred": 20755.875,
+            "n_ref": 18452.0
+        },
+        "2": {
+            "Dice": 0.6481035346637086,
+            "FN": 24144.5,
+            "FP": 14841.375,
+            "IoU": 0.5090879191920075,
+            "TN": 8831648.875,
+            "TP": 57365.25,
+            "n_pred": 72206.625,
+            "n_ref": 81509.75
+        },
+        "3": {
+            "Dice": 0.30707073165896226,
+            "FN": 5471.25,
+            "FP": 3896.0,
+            "IoU": 0.21371292891446866,
+            "TN": 8915266.0,
+            "TP": 3366.75,
+            "n_pred": 7262.75,
+            "n_ref": 8838.0
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6740125708077908,
+                    "FN": 3602,
+                    "FP": 599,
+                    "IoU": 0.5083099250936329,
+                    "TN": 8919456,
+                    "TP": 4343,
+                    "n_pred": 4942,
+                    "n_ref": 7945
+                },
+                "2": {
+                    "Dice": 0.7513319009034664,
+                    "FN": 22260,
+                    "FP": 25769,
+                    "IoU": 0.6017066516291143,
+                    "TN": 8807413,
+                    "TP": 72558,
+                    "n_pred": 98327,
+                    "n_ref": 94818
+                },
+                "3": {
+                    "Dice": 0.6758427353569705,
+                    "FN": 3976,
+                    "FP": 10131,
+                    "IoU": 0.5103946135424982,
+                    "TN": 8899187,
+                    "TP": 14706,
+                    "n_pred": 24837,
+                    "n_ref": 18682
+                }
+            },
+            "prediction_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_results/Dataset501_TCGA_LGG/nnUNetTrainer_10epochs__nnUNetPlans__2d/crossval_results_folds_0/postprocessed/temp/keep_largest_perClassOrRegion/TCGA-CS-5396.nii.gz",
+            "reference_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_preprocessed/Dataset501_TCGA_LGG/gt_segmentations/TCGA-CS-5396.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 2841,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 8925159,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 2841
+                },
+                "2": {
+                    "Dice": 0.2032941753826335,
+                    "FN": 2530,
+                    "FP": 23445,
+                    "IoU": 0.1131482809245792,
+                    "TN": 8898711,
+                    "TP": 3314,
+                    "n_pred": 26759,
+                    "n_ref": 5844
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 21307,
+                    "FP": 1,
+                    "IoU": 0.0,
+                    "TN": 8906692,
+                    "TP": 0,
+                    "n_pred": 1,
+                    "n_ref": 21307
+                }
+            },
+            "prediction_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_results/Dataset501_TCGA_LGG/nnUNetTrainer_10epochs__nnUNetPlans__2d/crossval_results_folds_0/postprocessed/temp/keep_largest_perClassOrRegion/TCGA-CS-5397.nii.gz",
+            "reference_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_preprocessed/Dataset501_TCGA_LGG/gt_segmentations/TCGA-CS-5397.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.07037747920665387,
+                    "FN": 1414,
+                    "FP": 39,
+                    "IoU": 0.03647214854111406,
+                    "TN": 8926492,
+                    "TP": 55,
+                    "n_pred": 94,
+                    "n_ref": 1469
+                },
+                "2": {
+                    "Dice": 0.4893246088708764,
+                    "FN": 17834,
+                    "FP": 4721,
+                    "IoU": 0.3239111537423938,
+                    "TN": 8894639,
+                    "TP": 10806,
+                    "n_pred": 15527,
+                    "n_ref": 28640
+                },
+                "3": {
+                    "Dice": 0.6361940298507462,
+                    "FN": 753,
+                    "FP": 27,
+                    "IoU": 0.466484268125855,
+                    "TN": 8926538,
+                    "TP": 682,
+                    "n_pred": 709,
+                    "n_ref": 1435
+                }
+            },
+            "prediction_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_results/Dataset501_TCGA_LGG/nnUNetTrainer_10epochs__nnUNetPlans__2d/crossval_results_folds_0/postprocessed/temp/keep_largest_perClassOrRegion/TCGA-CS-6188.nii.gz",
+            "reference_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_preprocessed/Dataset501_TCGA_LGG/gt_segmentations/TCGA-CS-6188.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8073841352844431,
+                    "FN": 11501,
+                    "FP": 6769,
+                    "IoU": 0.6769859090185817,
+                    "TN": 8871439,
+                    "TP": 38291,
+                    "n_pred": 45060,
+                    "n_ref": 49792
+                },
+                "2": {
+                    "Dice": 0.5623264471636508,
+                    "FN": 20459,
+                    "FP": 8227,
+                    "IoU": 0.3911363925797003,
+                    "TN": 8880886,
+                    "TP": 18428,
+                    "n_pred": 26655,
+                    "n_ref": 38887
+                },
+                "3": {
+                    "Dice": 0.5221039383292254,
+                    "FN": 4898,
+                    "FP": 4215,
+                    "IoU": 0.3532751401603861,
+                    "TN": 8913909,
+                    "TP": 4978,
+                    "n_pred": 9193,
+                    "n_ref": 9876
+                }
+            },
+            "prediction_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_results/Dataset501_TCGA_LGG/nnUNetTrainer_10epochs__nnUNetPlans__2d/crossval_results_folds_0/postprocessed/temp/keep_largest_perClassOrRegion/TCGA-DU-7306.nii.gz",
+            "reference_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_preprocessed/Dataset501_TCGA_LGG/gt_segmentations/TCGA-DU-7306.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.2782129477692808,
+                    "FN": 20423,
+                    "FP": 2890,
+                    "IoU": 0.1615838308278789,
+                    "TN": 8900194,
+                    "TP": 4493,
+                    "n_pred": 7383,
+                    "n_ref": 24916
+                },
+                "2": {
+                    "Dice": 0.815209469670817,
+                    "FN": 21277,
+                    "FP": 26899,
+                    "IoU": 0.6880621078599595,
+                    "TN": 8773559,
+                    "TP": 106265,
+                    "n_pred": 133164,
+                    "n_ref": 127542
+                },
+                "3": {
+                    "Dice": 0.4259614955107875,
+                    "FN": 12467,
+                    "FP": 384,
+                    "IoU": 0.2706169476133719,
+                    "TN": 8910381,
+                    "TP": 4768,
+                    "n_pred": 5152,
+                    "n_ref": 17235
+                }
+            },
+            "prediction_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_results/Dataset501_TCGA_LGG/nnUNetTrainer_10epochs__nnUNetPlans__2d/crossval_results_folds_0/postprocessed/temp/keep_largest_perClassOrRegion/TCGA-DU-8168.nii.gz",
+            "reference_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_preprocessed/Dataset501_TCGA_LGG/gt_segmentations/TCGA-DU-8168.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.32680033888731996,
+                    "FN": 133,
+                    "FP": 23705,
+                    "IoU": 0.1953146097758574,
+                    "TN": 8898376,
+                    "TP": 5786,
+                    "n_pred": 29491,
+                    "n_ref": 5919
+                },
+                "2": {
+                    "Dice": 0.8057589208508675,
+                    "FN": 37043,
+                    "FP": 16869,
+                    "IoU": 0.6747037385658774,
+                    "TN": 8762268,
+                    "TP": 111820,
+                    "n_pred": 128689,
+                    "n_ref": 148863
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 4,
+                    "FP": 2037,
+                    "IoU": 0.0,
+                    "TN": 8925959,
+                    "TP": 0,
+                    "n_pred": 2037,
+                    "n_ref": 4
+                }
+            },
+            "prediction_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_results/Dataset501_TCGA_LGG/nnUNetTrainer_10epochs__nnUNetPlans__2d/crossval_results_folds_0/postprocessed/temp/keep_largest_perClassOrRegion/TCGA-DU-A5TU.nii.gz",
+            "reference_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_preprocessed/Dataset501_TCGA_LGG/gt_segmentations/TCGA-DU-A5TU.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6112633639512122,
+                    "FN": 13149,
+                    "FP": 38483,
+                    "IoU": 0.4401578730509835,
+                    "TN": 8835774,
+                    "TP": 40594,
+                    "n_pred": 79077,
+                    "n_ref": 53743
+                },
+                "2": {
+                    "Dice": 0.7331011549562906,
+                    "FN": 53099,
+                    "FP": 11352,
+                    "IoU": 0.578658002431913,
+                    "TN": 8775034,
+                    "TP": 88515,
+                    "n_pred": 99867,
+                    "n_ref": 141614
+                },
+                "3": {
+                    "Dice": 0.19646365422396855,
+                    "FN": 351,
+                    "FP": 14373,
+                    "IoU": 0.10893246187363835,
+                    "TN": 8911476,
+                    "TP": 1800,
+                    "n_pred": 16173,
+                    "n_ref": 2151
+                }
+            },
+            "prediction_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_results/Dataset501_TCGA_LGG/nnUNetTrainer_10epochs__nnUNetPlans__2d/crossval_results_folds_0/postprocessed/temp/keep_largest_perClassOrRegion/TCGA-FG-6689.nii.gz",
+            "reference_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_preprocessed/Dataset501_TCGA_LGG/gt_segmentations/TCGA-FG-6689.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 991,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 8927009,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 991
+                },
+                "2": {
+                    "Dice": 0.8244815995110665,
+                    "FN": 18654,
+                    "FP": 1449,
+                    "IoU": 0.7013770258025224,
+                    "TN": 8860681,
+                    "TP": 47216,
+                    "n_pred": 48665,
+                    "n_ref": 65870
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 14,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 8927986,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 14
+                }
+            },
+            "prediction_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_results/Dataset501_TCGA_LGG/nnUNetTrainer_10epochs__nnUNetPlans__2d/crossval_results_folds_0/postprocessed/temp/keep_largest_perClassOrRegion/TCGA-HT-7602.nii.gz",
+            "reference_file": "/home/cgutwin/sfuhome/2025_3_project_07/src/nnUNet_raw/nnUNet_preprocessed/Dataset501_TCGA_LGG/gt_segmentations/TCGA-HT-7602.nii.gz"
+        }
+    ]
+}

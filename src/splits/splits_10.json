@@ -1,0 +1,146 @@
+[
+	{
+		"train": [
+			"TCGA-CS-4944",
+			"TCGA-CS-5393",
+			"TCGA-CS-6186",
+			"TCGA-CS-6669"
+		],
+		"val": [
+			"TCGA-CS-5396",
+			"TCGA-CS-5397",
+			"TCGA-CS-6188",
+			"TCGA-DU-7306",
+			"TCGA-DU-8168",
+			"TCGA-DU-A5TU",
+			"TCGA-FG-6689",
+			"TCGA-HT-7602"
+		]
+	},
+	{
+		"train": [
+			"TCGA-DU-5855",
+			"TCGA-DU-5874",
+			"TCGA-DU-7008",
+			"TCGA-DU-7015"
+		],
+		"val": [
+			"TCGA-CS-5396",
+			"TCGA-CS-5397",
+			"TCGA-CS-6188",
+			"TCGA-DU-7306",
+			"TCGA-DU-8168",
+			"TCGA-DU-A5TU",
+			"TCGA-FG-6689",
+			"TCGA-HT-7602"
+		]
+	},
+	{
+		"train": [
+			"TCGA-DU-7018",
+			"TCGA-DU-7019",
+			"TCGA-DU-7294",
+			"TCGA-DU-7298"
+		],
+		"val": [
+			"TCGA-CS-5396",
+			"TCGA-CS-5397",
+			"TCGA-CS-6188",
+			"TCGA-DU-7306",
+			"TCGA-DU-8168",
+			"TCGA-DU-A5TU",
+			"TCGA-FG-6689",
+			"TCGA-HT-7602"
+		]
+	},
+	{
+		"train": [
+			"TCGA-DU-7299",
+			"TCGA-DU-7300",
+			"TCGA-DU-7301",
+			"TCGA-DU-7304"
+		],
+		"val": [
+			"TCGA-CS-5396",
+			"TCGA-CS-5397",
+			"TCGA-CS-6188",
+			"TCGA-DU-7306",
+			"TCGA-DU-8168",
+			"TCGA-DU-A5TU",
+			"TCGA-FG-6689",
+			"TCGA-HT-7602"
+		]
+	},
+	{
+		"train": [
+			"TCGA-DU-7309",
+			"TCGA-DU-A5TR",
+			"TCGA-DU-A5TS",
+			"TCGA-DU-A5TT"
+		],
+		"val": [
+			"TCGA-CS-5396",
+			"TCGA-CS-5397",
+			"TCGA-CS-6188",
+			"TCGA-DU-7306",
+			"TCGA-DU-8168",
+			"TCGA-DU-A5TU",
+			"TCGA-FG-6689",
+			"TCGA-HT-7602"
+		]
+	},
+	{
+		"train": [
+			"TCGA-DU-A5TW",
+			"TCGA-DU-A6S8",
+			"TCGA-FG-6691",
+			"TCGA-FG-6692"
+		],
+		"val": [
+			"TCGA-CS-5396",
+			"TCGA-CS-5397",
+			"TCGA-CS-6188",
+			"TCGA-DU-7306",
+			"TCGA-DU-8168",
+			"TCGA-DU-A5TU",
+			"TCGA-FG-6689",
+			"TCGA-HT-7602"
+		]
+	},
+	{
+		"train": [
+			"TCGA-HT-7473",
+			"TCGA-HT-7686",
+			"TCGA-HT-7694",
+			"TCGA-HT-7879"
+		],
+		"val": [
+			"TCGA-CS-5396",
+			"TCGA-CS-5397",
+			"TCGA-CS-6188",
+			"TCGA-DU-7306",
+			"TCGA-DU-8168",
+			"TCGA-DU-A5TU",
+			"TCGA-FG-6689",
+			"TCGA-HT-7602"
+		]
+	},
+	{
+		"train": [
+			"TCGA-HT-7884",
+			"TCGA-HT-8018",
+			"TCGA-HT-8111",
+			"TCGA-HT-8563"
+		],
+		"val": [
+			"TCGA-CS-5396",
+			"TCGA-CS-5397",
+			"TCGA-CS-6188",
+			"TCGA-DU-7306",
+			"TCGA-DU-8168",
+			"TCGA-DU-A5TU",
+			"TCGA-FG-6689",
+			"TCGA-HT-7602"
+		]
+	}
+]
